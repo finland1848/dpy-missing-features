@@ -41,7 +41,6 @@ These are divided in different categories depending on the object or concept the
 
 |    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
-| Application Emojis | Support for getting, editing, deleting and other various methods for application based emojis | In Dev Version | [GH-7010](https://github.com/discord/discord-api-docs/pull/7010) | [GH-9891](https://github.com/Rapptz/discord.py/pull/9891) | |
 | Application Integration Types | Support for getting and editing application integration types | Not Released | | [GH-9818](https://github.com/Rapptz/discord.py/pull/9818) | Also see this [bikeshedding post](https://canary.discord.com/channels/336642139381301249/1236782377980657836) in discord.py's server |
 | Modify Application Fields | Add & Update multiple attributes for the AppInfo object | Not Released | [GH-6484](https://github.com/discord/discord-api-docs/pull/6484) | | Also see this [bikeshedding post](https://canary.discord.com/channels/336642139381301249/1236550182791942186) in discord.py's server |
 | `approximate_user_install_count` field | Adds a new field to the AppInfo object | In Dev Version | [GH-7070](https://github.com/discord/discord-api-docs/pull/7070) | [GH-9915](https://github.com/Rapptz/discord.py/pull/9915) | Also see this [bikeshedding post](https://canary.discord.com/channels/336642139381301249/1272140300000956497) in discord.py's server |
@@ -75,7 +74,6 @@ These are divided in different categories depending on the object or concept the
 |    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
 | Attachment Title | Allows getting message attachments' titles | In Dev Version | [GH-6945](https://github.com/discord/discord-api-docs/pull/6945) | [GH-9904](https://github.com/Rapptz/discord.py/pull/9904) | |
-| Forwarding | Message reference type and field on messages with new message snapshots | Not Released | [GH-6833](https://github.com/discord/discord-api-docs/pull/6833) | [GH-9892](https://github.com/Rapptz/discord.py/pull/9892) | |
 | `POLL_RESULT` Type  | Message type and field on messages with finished polls | Not Released | [GH-7050](https://github.com/discord/discord-api-docs/pull/7050) | [GH-9905](https://github.com/Rapptz/discord.py/pull/9905) | |
 | `PURCHASE_NOTIFICATION` Type | Message type | Not Released | [GH-6927](https://github.com/discord/discord-api-docs/pull/6927) | [GH-9906](https://github.com/Rapptz/discord.py/pull/9906) | |
 
